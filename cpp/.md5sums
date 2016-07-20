@@ -1,0 +1,10 @@
+1f853fa79e038f3009a14d96ab165961  main.cpp
+c3b8e15429a68f5e12977313fb0ba03b  test_component_base.h
+8bfcd22353c3a57fee561ad86ee2a56b  reconf
+69d071c743c85bafe5d1eb8a359e6178  configure.ac
+8cea636260d16f876c3065eac577a21e  test_component_base.cpp
+d08240d5ac85466cdd9091edaf4c499a  Makefile.am
+e3f8c0d6ca6352d4107e1ea9502854f8  Makefile.am.ide
+b87651ea3565402473fb088004430fbf  build.sh
+fb76dabf0c6982614a23cf8bda8c6758  test_component.h
+6ecd3203ac2841794746e3cffdbdd56b  test_component.cpp
